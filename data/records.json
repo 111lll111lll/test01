@@ -1,0 +1,166 @@
+﻿[
+  {
+    "p": {
+"identity": 0,
+"labels": [
+        "food"
+      ],
+"properties": {
+"price": "16",
+"name": "豆角"
+      }
+    }
+  },
+  {
+    "p": {
+"identity": 1,
+"labels": [
+        "food"
+      ],
+"properties": {
+"price": "17",
+"name": "茄子"
+      }
+    }
+  },
+  {
+    "p": {
+"identity": 2,
+"labels": [
+        "food"
+      ],
+"properties": {
+"price": "18",
+"name": "鲽鱼"
+      }
+    }
+  },
+  {
+    "p": {
+"identity": 3,
+"labels": [
+        "food"
+      ],
+"properties": {
+"price": "19",
+"name": "猪手"
+      }
+    }
+  },
+  {
+    "p": {
+"identity": 7,
+"labels": [
+        "place"
+      ],
+"properties": {
+"name": "北一"
+      }
+    }
+  },
+  {
+    "p": {
+"identity": 8,
+"labels": [
+        "food"
+      ],
+"properties": {
+"price": "10",
+"name": "葱"
+      }
+    }
+  },
+  {
+    "p": {
+"identity": 11,
+"labels": [
+        "taste"
+      ],
+"properties": {
+"taste1": "香辣"
+      }
+    }
+  },
+  {
+    "p": {
+"identity": 15,
+"labels": [
+        "food"
+      ],
+"properties": {
+"price": "11",
+"name": "姜"
+      }
+    }
+  },
+  {
+    "p": {
+"identity": 18,
+"labels": [
+        "taste"
+      ],
+"properties": {
+"taste1": "甜"
+      }
+    }
+  },
+  {
+    "p": {
+"identity": 19,
+"labels": [
+        "food"
+      ],
+"properties": {
+"price": "12",
+"name": "蒜"
+      }
+    }
+  },
+  {
+    "p": {
+"identity": 20,
+"labels": [
+        "taste"
+      ],
+"properties": {
+"taste1": "咸"
+      }
+    }
+  },
+  {
+    "p": {
+"identity": 21,
+"labels": [
+        "food"
+      ],
+"properties": {
+"price": "13",
+"name": "鸡蛋"
+      }
+    }
+  },
+  {
+    "p": {
+"identity": 22,
+"labels": [
+        "food"
+      ],
+"properties": {
+"price": "14",
+"name": "番茄"
+      }
+    }
+  },
+  {
+    "p": {
+"identity": 23,
+"labels": [
+        "food"
+      ],
+"properties": {
+"price": "15",
+"name": "土豆"
+      }
+    }
+  }
+]
